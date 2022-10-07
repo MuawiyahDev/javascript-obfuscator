@@ -3,18 +3,21 @@ A free and efficient obfuscator for JavaScript. Make your code harder to copy an
 
 ## Screenshots
 
-Step 1:-
+Step 1 (Welcome Screen):-
 
-![App Screenshot](https://github.com/MusabDev/programming-game/blob/main/assets/screenshots/1.png?raw=true)
+![App Screenshot](https://github.com/MuawiyahDev/javascript-obfuscator/blob/main/screenshots/1.png?raw=true)
 
 
-Challenge Page:-
+Step 2 (Filled Form):-
 
-![App Screenshot](https://github.com/MusabDev/programming-game/blob/main/assets/screenshots/2.png?raw=true)
-## Installation 
+![App Screenshot](https://github.com/MuawiyahDev/javascript-obfuscator/blob/main/screenshots/2.png?raw=true)
 
-For install this PHP game you need to download this one and then you will be move it to your htdocs folder and upload database that's it.
+
+Step 3 (Output):-
+
+![App Screenshot](https://github.com/MuawiyahDev/javascript-obfuscator/blob/main/screenshots/3.png?raw=true)
+
+To install this JavaScript Obfuscator you need to download this source code and then you unzip the files and double click on index.html and that's it you can use the tool now.
 ## Authors
 
-- [Pure Coding](https://youtube.com/PureCoding/)
-- [@MusabDev](https://www.github.com/MusabDev/)
+- [@MuawiyahDev](https://www.github.com/MuawiyahDev/)

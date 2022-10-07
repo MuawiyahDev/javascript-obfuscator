@@ -20,4 +20,8 @@ Step 3 (Output):-
 To install this JavaScript Obfuscator you need to download this source code and then you unzip the files and double click on index.html and that's it you can use the tool now.
 ## Authors
 
-- [@MuawiyahDev](https://www.github.com/MuawiyahDev/)
+- [@MuawiyahDev](https://github.com/MuawiyahDev/)
+
+## Thanks to
+
+- [@sanex3339](https://github.com/sanex3339/)

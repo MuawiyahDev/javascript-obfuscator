@@ -1,6 +1,9 @@
 # Javascript Obfuscator Tool
 A free and efficient obfuscator for JavaScript. Make your code harder to copy and prevent people from stealing your work.
 
+- [View Live Demo](https://javascript-obfuscator.vercel.app/)
+
+
 ## Screenshots
 
 Step 1 (Welcome Screen):-

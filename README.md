@@ -20,7 +20,9 @@ Step 3 (Output):-
 
 ![App Screenshot](https://github.com/MuawiyahDev/javascript-obfuscator/blob/main/screenshots/3.png?raw=true)
 
-To install this JavaScript Obfuscator you need to download this source code and then you unzip the files and double click on index.html and that's it you can use the tool now.
+To install this JavaScript Obfuscator you need to download this source code and then you unzip the files and open index.html in your web browser and that's it you can use the tool now.
+
+
 ## Authors
 
 - [@MuawiyahDev](https://github.com/MuawiyahDev/)
